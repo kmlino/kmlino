@@ -10,12 +10,12 @@ Atualmente faço o uso diário de Python e bancos PostgreSQL e Oracle no trabalh
 Aqui no GitHub eu salvo projetos profissionais de minha autoria, projetos da faculdade e outras práticas ou desafios individuais.
 Abaixo as linguagens e tecnologias que possuo familiaridade:
 
-- Python (Estrutura de dados; Funções; Módulos; Automatização de tarefas; Interfaces gráficas; Web scraping; POO...);
+- Python (Estrutura de dados; Funções; Módulos; Automatização de tarefas; Interfaces gráficas; Web scraping; POO...)
 - PHP (Interação com HTML e CSS: Protocolo HTTP; PHP Data Object; POO...)
+- Java (Tipos de variáveis; Tratamento de exceções;  Orientação a Objetos; Java Database Connectivity; JPA e Hibernate)
 - MySQL; SQLite; PostgreSQL; Oracle
 - Front End básico, JavaScript, HTML e CSS
 - Frameworks: Bootstrap; Spring; React 
-
 
 
 Não sou alguém que quer surfar no hype da área apenas em troca de dinheiro, eu amo a ciência e a tecnologia, levo os estudos a sério e me sinto pronto para encarar os desafios de um desenvolvedor, os ganhos virão pela consequência natural de meus esforços.
