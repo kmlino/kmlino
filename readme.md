@@ -12,5 +12,5 @@ Na empresa onde trabalho existem regras rígidas em relação aos sistemas e scr
 
 **Contato:**
 - E-mail: kmlino@outlook.com
-- LinkedIn: linkedin.com/in/kennedy-lino-lkd/
+- LinkedIn: [Kennedy Lino](https://www.linkedin.com/in/kennedy-lino-lkd/)
 - WhatsApp: (34) 9 9652-3996
