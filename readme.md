@@ -1,12 +1,14 @@
  #### Olá,muito prazer! Meu nome é Kennedy.
 
-<font size="4">D</font>esenvolvedor de Software com formação em Sistemas de Informação, trabalho há dois anos na área de tecnologia e minha experiência é composta por análise de dados e desenvolvimento de sistemas, com ênfase no Back-end.
+<font size="4">D</font>esenvolvedor de Software com formação em Sistemas de Informação, trabalho há cerca de 3 anos na área de tecnologia e minha experiência é composta por desenvolvimento de sistemas e automatização de tarefas com Python para aplicações Desktop, e no Desenvolvimento Full Stack com Node.js e Angular para sistemas web.
 
-A linguagem que possuo maior proficiência é o Python, e, em conjunto com bancos relacionais(Oracle, Postgres e SQLite) e o uso de API's, desenvolvo e presto manutenção em sistemas integrados ao uso de tecnologias GIS(Geographic Information System).
+Sou um profissional dedicado, disciplinado, organizado e estudioso, buscando construir um perfil baseado na filosofia 'Lifelong Learning', pois me estimulo frente aos desafios que aparecem e procuro absorver aprendizado em cada experiência.
 
-Meu objetivo como carreira é me tornar cada dia mais profissional no que diz respeito a software, ser capaz de entregar soluções completas, de cliente a servidor. Tenho dedicado meus estudos ao JavaScript e buscando dominar tecnologias e metodologias voltadas ao desenvolvimento web. Protocolos de rede, REST API's e o uso de Frameworks são algumas de minhas prioridades de estudo no momento.
+Para mim, é um prazer imenso ser capaz de compreeder e abstrair cada regra de negócio, fornecendo soluções eficientes para contextos diversos. Tenho um conforto particular atuando no Back End, lidando com bancos relacionais e linguagens como Python e Javascript com Node.js. Além disso, estou familiarizado com o framework Django, e também possuo experiência em frameworks Front End como Angular e React.
 
-Na empresa onde trabalho existem regras rígidas em relação aos sistemas e scripts gerados lá, portanto, não posso exibir grande parte dos projetos que participo, mas tenho alguns exemplos do que faço aqui no GitHub, onde busco reunir meus melhores projetos e soluções.
+Estou habituado ao desenvolvimento ágil pela metodologia SCRUM, e ao versionamento de código em ambiente de produção através do Bitbucket.
+
+Na empresa onde trabalho existem regras rígidas em relação aos sistemas e scripts gerados lá, portanto, não posso exibir os projetos em que participo, pois lá usamos o Git com o Bitbucket de forma totalmente privada. Aqui no Github tenho alguns exemplos do meu código, porém, devido a carga atual de demanda, boa parte dos meus projetos aqui não refletem meu nível atual, estou voltando agora aos projetos pessoais e em breve estarei mais ativo por aqui.
 
 ##### Sinta-se à vontade para me conhecer melhor e trocar ideias.
 
